@@ -13,7 +13,7 @@
 
 /* Create an empty queue
  * Good to be back
- * /
+ */
 struct list_head *q_new()
 {
     return NULL;
